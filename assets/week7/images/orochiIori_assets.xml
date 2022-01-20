@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="orochiIori_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Iori idle dance0000" x="0" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0001" x="634" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0002" x="634" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0003" x="1268" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0004" x="1902" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0005" x="2536" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0006" x="3170" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0007" x="3804" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0008" x="4438" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0009" x="5072" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0010" x="5072" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0011" x="5706" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0012" x="6340" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0013" x="6974" y="0" width="624" height="749"/>
+	<SubTexture name="Iori idle dance0014" x="0" y="759" width="624" height="749"/>
+	<SubTexture name="Iori sing note down0000" x="634" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0001" x="1138" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0002" x="1642" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0003" x="2146" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0004" x="2146" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0005" x="2650" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0006" x="2650" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0007" x="3154" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0008" x="3154" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0009" x="3658" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0010" x="3658" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note down0011" x="4162" y="759" width="494" height="725"/>
+	<SubTexture name="Iori sing note left0000" x="4666" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0001" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0002" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0003" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0004" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0005" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0006" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0007" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note left0008" x="5158" y="759" width="482" height="1035"/>
+	<SubTexture name="Iori sing note right0000" x="5650" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0001" x="6161" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0002" x="6672" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0003" x="7183" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0004" x="0" y="1837" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0005" x="511" y="1837" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0006" x="6672" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0007" x="7183" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0008" x="0" y="1837" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0009" x="511" y="1837" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0010" x="6672" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0011" x="7183" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0012" x="6672" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0013" x="511" y="1837" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0014" x="6672" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note right0015" x="7183" y="759" width="501" height="1068"/>
+	<SubTexture name="Iori sing note up0000" x="1022" y="1837" width="1116" height="847"/>
+	<SubTexture name="Iori sing note up0001" x="2148" y="1837" width="1116" height="847"/>
+	<SubTexture name="Iori sing note up0002" x="3274" y="1837" width="1116" height="847"/>
+</TextureAtlas>
