@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intros.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ioriIntro0000" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0001" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0002" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0003" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0004" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0005" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0006" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0007" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0008" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0009" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0010" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0011" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0012" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0013" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0014" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0015" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0016" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0017" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0018" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0019" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0020" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0021" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0022" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0023" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0024" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0025" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0026" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0027" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0028" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0029" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0030" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0031" x="0" y="0" width="390" height="844" frameX="-25" frameY="-20" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0032" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0033" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0034" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0035" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0036" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0037" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0038" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0039" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0040" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0041" x="400" y="0" width="391" height="831" frameX="-30" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0042" x="801" y="0" width="473" height="827" frameX="0" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0043" x="801" y="0" width="473" height="827" frameX="0" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0044" x="801" y="0" width="473" height="827" frameX="0" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0045" x="801" y="0" width="473" height="827" frameX="0" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0046" x="801" y="0" width="473" height="827" frameX="0" frameY="-32" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0047" x="1284" y="0" width="373" height="844" frameX="-3" frameY="-17" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0048" x="1284" y="0" width="373" height="844" frameX="-3" frameY="-17" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0049" x="1284" y="0" width="373" height="844" frameX="-3" frameY="-17" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0050" x="0" y="854" width="423" height="869" frameX="-54" frameY="0" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0051" x="0" y="854" width="423" height="869" frameX="-54" frameY="0" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0052" x="0" y="854" width="423" height="869" frameX="-54" frameY="0" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0053" x="433" y="854" width="430" height="771" frameX="-38" frameY="-96" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0054" x="433" y="854" width="430" height="771" frameX="-38" frameY="-96" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0055" x="873" y="854" width="387" height="780" frameX="-138" frameY="-96" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0056" x="873" y="854" width="387" height="780" frameX="-138" frameY="-96" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0057" x="873" y="854" width="387" height="780" frameX="-138" frameY="-96" frameWidth="603" frameHeight="882"/>
+	<SubTexture name="ioriIntro0058" x="1270" y="854" width="446" height="863" frameX="-157" frameY="-19" frameWidth="603" frameHeight="882"/>
+</TextureAtlas>
